@@ -1,0 +1,18 @@
+{
+  "name": "ig-getnotfollback",
+  "version": "1.0.0",
+  "description": "insta bot get user not follback you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "insta",
+    "bot"
+  ],
+  "author": "rizkanugrha",
+  "license": "ISC",
+  "dependencies": {
+    "insta-fetcher": "github:rizkanugrha/insta-fetcher#patch-2"
+  }
+}
